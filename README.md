@@ -1,13 +1,13 @@
 # Phippy’s Quest for Cloud Native Transformation
 
-![Cover page of the comic](./cover.png)
+![Cover page of the comic](./cover.PNG)
 
 Join Phippy and friends on a journey towards cloud native. This time
 Phippy and Captain Kube have put up their engineering hats. Captain
 Kube will help Phippy understand what is cloud native by covering key
 points. Download the comic book to get started reading.
 
-[**Download Comic Book**](https://www.infracloud.io/wp-content/uploads/2020/11/Phippys-Cloud-Native-Transformation-journey-comic-by-InfraCloud.pdf)
+[**Download Comic Book**](https://github.com/infracloudio/phippy-cloud-native-transformation/blob/main/Phippys-quest-for-cloudnative-transformation-comic.pdf)
 
 
 ## Licensing & Credits
