@@ -7,7 +7,7 @@ Phippy and Captain Kube have put up their engineering hats. Captain
 Kube will help Phippy understand what is cloud native by covering key
 points. Download the comic book to get started reading.
 
-[**Download Comic Book**](https://github.com/infracloudio/phippy-cloud-native-transformation/blob/main/Phippys-quest-for-cloudnative-transformation-comic.pdf)
+[**Download Comic Book**](https://github.com/infracloudio/phippy-cloud-native-transformation/blob/main/phippys-quest-for-cloudnative-transformation-comic.pdf)
 
 
 ## Licensing & Credits
